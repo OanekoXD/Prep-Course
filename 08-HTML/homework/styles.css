@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://www.machupicchupremiumtravel.com/wp-content/uploads/2019/09/machupicchu-001.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+}
+h1{
+    color: blue; 
+    text-align: center; 
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+.divClass{
+    justify-content: center;
+    text-align: center;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgba(132, 245, 241, .5);
+    padding: 50px;
+    border: 9px solid black;
+    margin-top: 2rem;
+    margin-left: 37.7%;
+}
+img{
+    width: 400px;
+    padding-top: 2rem;
+    padding-left: 3rem;
+}
+#spanId{
+    
+    font-size: 18px;
+    margin: 50px;
+}
+
